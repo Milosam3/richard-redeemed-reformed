@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Post Title — Richard Redeemed Reformed</title>
+  <link rel="stylesheet" href="../style.css">
+</head>
+<body>
+<div class="site">
+
+  <nav>
+    <span class="nav-brand">Richard Redeemed Reformed</span>
+    <div class="nav-links">
+      <a href="../index.html">Home</a>
+      <a href="../writing.html">Writing</a>
+      <a href="../contact.html">Contact</a>
+    </div>
+  </nav>
+
+  <p class="post-date">March 2026</p>
+  <h1 class="page-title">Dummy first post</h1>
+  <hr class="divider">
+
+  <div class="page-body">
+    <p>Your first paragraph goes here.</p>
+    <p>Your second paragraph goes here.</p>
+    <!-- Keep adding paragraphs as needed -->
+  </div>
+
+  <div class="footer">
+    &copy; 2026 Richard Redeemed Reformed
+    &nbsp;&mdash;&nbsp;
+    <a href="../writing.html">Back to writing</a>
+  </div>
+
+</div>
+</body>
+</html>
